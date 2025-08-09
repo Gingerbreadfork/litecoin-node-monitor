@@ -20,7 +20,7 @@ No dependencies. No external APIs. Just Node.js and JSON-RPC.
 * Running `litecoind` with RPC enabled (`server=1`)
 
 ## Usage
-
+Slap it in your node's root directory and then:
 ```bash
 node litecoin-node-monitor.js
 ```
