@@ -22,7 +22,7 @@ No dependencies. No external APIs. Just Node.js and JSON-RPC.
 ## Usage
 
 ```bash
-node ltc-monitor.js
+node litecoin-node-monitor.js
 ```
 
 ## How it connects
